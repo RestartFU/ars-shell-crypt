@@ -1,8 +1,3 @@
-# ARS_SHELL_CRYPT
-
-This is a Go implementation of https://github.com/Neptune-IT/ARS_SHELL_CRYPT
-
-```go
 package main
 
 import (
@@ -21,4 +16,3 @@ func main() {
 	// print out the result
 	fmt.Printf("Decrypted: %s\n", d)
 }
-```
